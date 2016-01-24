@@ -8,6 +8,7 @@ namespace CCG
     {
         private static void Main(string[] args)
         {
+            //TODO: Remove. Only for testing.
             var handler = new EventProducer();
             
             handler.PublishEvent(new TestEvent { RoutingKey = "key1"});
