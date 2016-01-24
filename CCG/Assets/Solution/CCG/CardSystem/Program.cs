@@ -1,4 +1,5 @@
 ﻿using System;
+using CardSystem.Card;
 
 namespace CardSystem
 {

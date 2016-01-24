@@ -5,7 +5,7 @@ using Newtonsoft.Json.Linq;
 using RabbitMQ.Client;
 using RabbitMQ.Client.Events;
 
-namespace CardSystem
+namespace CardSystem.Card
 {
     public class EventConsumer
     {
