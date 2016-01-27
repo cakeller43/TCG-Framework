@@ -18,6 +18,6 @@ namespace CardSystem.CardLibrary
 
     public class RawCardData
     {
-        public List<BaseCard> AllCards { get; set; }
+        public List<ConcreteBaseCard> AllCards { get; set; }
     }
 }
